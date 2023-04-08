@@ -4,3 +4,4 @@ push out more updates in the future. I am currently only able to test it on ios 
 i will shortly look into supporting rootless, i cant tell you stuff about ios compatibilty but as i said it works on ios 16.3.1
 if you have problems or anything tell me on twitter(@maxiweee69), if you dont want to use twitter/cant use it my reddit names are Maxiwee and KeyCurrency4412. If you have some feature request or anything tell me! i will shortly look into 
 adding some preferences to change the docks color. 
+So ive added a Rootless version so more people can use it, i can confirm it works on ios 15.4.1 with fugu15 max. 
